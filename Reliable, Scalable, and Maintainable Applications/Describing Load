@@ -1,3 +1,0 @@
-Load can be described using a load parameter. A load parameter can be something like requests per second to a web server, the ratio of reads to writes in a database, 
-the number of simultaneously active users in a chat room, the hit
-rate on a cache, etc...
